@@ -1,0 +1,16 @@
+1. How to open cd directory
+Enter: pwd
+Return previous working girectory
+
+Enter: cd desktop
+Return current path is /user/srujanv/deskton
+
+Enter: cd vv
+
+Enter: cd bin
+
+Enter: . ./activate
+
+2. Enter python and path of the program
+
+
